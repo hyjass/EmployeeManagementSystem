@@ -1,4 +1,6 @@
-🌟 Employee Management System
+🌟 Employee Management System:
+
+
 A comprehensive employee management platform allowing users to register, manage profiles, qualifications, and experiences — built with PHP, HTML, CSS, MySQL, and jQuery AJAX.
 
 ✨ Live Demo: coming soon
