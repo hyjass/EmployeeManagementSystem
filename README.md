@@ -50,11 +50,14 @@ Clone the repository
 
 Screenshots:
 
-![image](https://github.com/user-attachments/assets/fdc51261-9763-4276-bebd-bd5921a33992)
+![Screenshot 2025-04-27 201705](https://github.com/user-attachments/assets/fedc42ed-dd52-4a06-b21b-ff472202a995)
 
-![image](https://github.com/user-attachments/assets/59963042-44a3-4f1a-a193-32de3a635458)
+ 
+![Screenshot 2025-04-27 201827](https://github.com/user-attachments/assets/b29ba8c7-5bd4-4d5f-88a8-b5ddec5e69ea)
 
-![Screenshot 2025-02-14 230229](https://github.com/user-attachments/assets/d2a53b5f-327b-4a16-94c0-746aee2eac87)
+
+![image](https://github.com/user-attachments/assets/0d1711dd-6b21-4e1a-9848-2d77f1dee279)
+
 
 
 
